@@ -6,9 +6,11 @@ Program returns when time is up or all questions are answered within time limit.
 
 
 This problem is collected from the jon calhoun's course gophercises from https://gophercises.com/
+
 Bonus Part of the problem is implemented by me. 
 
 Thank you... :smile: :smile: :smile:
+
 Happy Learning
 
 
